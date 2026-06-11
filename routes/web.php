@@ -12,3 +12,4 @@ Route::get('/', function () {
 // Admin Panel Routes for Categories and Products
 Route::resource('admin/categories', CategoryController::class);
 Route::resource('admin/products', ProductController::class);
+   
