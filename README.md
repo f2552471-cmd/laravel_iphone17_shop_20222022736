@@ -31,3 +31,4 @@ This project is a specialized E-Commerce platform designed specifically for the 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/f2552471-cmd/laravel_iphone17_shop_20222022736.git](https://github.com/f2552471-cmd/laravel_iphone17_shop_20222022736.git)
+ 
